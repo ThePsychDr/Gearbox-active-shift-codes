@@ -1,6 +1,6 @@
 # SHiFT Code Finder
 
-A lightweight Python script that scrapes 20+ sources to find every active SHiFT code across all Borderlands and Wonderlands games. No browser automation, no login required — just a clean list of codes ready to redeem.
+A lightweight Python script that scrapes 20+ sources to find every active SHiFT code across all Borderlands and Wonderlands games. 
 
 ## Supported Games
 
@@ -19,7 +19,7 @@ A lightweight Python script that scrapes 20+ sources to find every active SHiFT 
 python3 shift_codes.py
 ```
 
-That's it. Dependencies install automatically on first run. Requires Python 3.9+ (ships with macOS; [download for Windows](https://www.python.org/downloads/)).
+Dependencies install automatically on first run. Requires Python 3.9+ (ships with macOS; [download for Windows](https://www.python.org/downloads/)).
 
 ## Usage
 
